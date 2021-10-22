@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/tela inicial.unity
+    guid: a75803ea51f3cbe41907a54fd8424b5e
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: e6d0f08a03e6bd34da77c16e5d328b3f
+  - enabled: 1
+    path: Assets/Scenes/Fase1.unity
+    guid: da475b09765bbb843ada802aba709491
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: 0d7d659271193404dbd6519abfc679ee
+  - enabled: 1
+    path: Assets/Scenes/Fase3.unity
+    guid: 06a6402043443ca44baf550deaf8a369
+  - enabled: 1
+    path: Assets/Scenes/Fase4.unity
+    guid: 3fd5bf821828cd2478495804253aecd5
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: ac2575f3a16d52a4fa3dfaaae8926511
+  m_configObjects: {}
